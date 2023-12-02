@@ -1,0 +1,50 @@
+------------------------------------------------------
+1. Defining the problem:
+    Regressive problem: Predict the price of a stock 'n' days in the future.
+    Classification problem: Predict whether the price will increase or decrease.
+
+2. Gathering data:
+    Data sources - Fidelity, Yahoo Finance.
+
+3. Data Preprocessing:
+    - Clean data
+    - Feature engineering
+
+4. Exploratory Data Analysis:
+    - Visualize data with tools
+    - Look for patterns and insights to help choose features
+
+5. Feature selection:
+    - Identify relevant features.
+
+6. Model selection:
+    - Choose a machine learning model
+    - Use scikit-learn, TensorFlow, or PyTorch
+
+7. Train-Test split
+
+8. Model Training
+
+9. Model evaluation:
+    - Evaluate model's performance using several metrics.
+    - Mean Absolute Error
+    - Mean Squared Error
+
+10. Hyperparameter tuning
+
+11. Experimentation:
+    - Try different models
+    - Normalize or scale data
+    - Cross validation
+    - Random search
+    - Ensemble methods
+------------------------------------------------------
+Tools and Frameworks:
+- Jupyter notebooks
+- Pandas
+- Numpy
+- Matplotlib
+- Scikit-learn
+- TensorFlow
+- PyTorch
+------------------------------------------------------
